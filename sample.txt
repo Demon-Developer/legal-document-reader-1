@@ -1,0 +1,29 @@
+This Service Agreement (“Agreement”) is made and entered into on this 12th day of September, 2025, by and between:
+
+Party A: Alpha Tech Solutions Pvt. Ltd., a company incorporated under the Companies Act, 2013, having its registered office at Chennai, India.
+
+Party B: Beta Innovations, an individual consultancy service provider, residing at Bangalore, India.
+
+1. Scope of Services
+
+Party B agrees to provide software development and related consulting services (“Services”) to Party A.
+
+2. Term
+
+This Agreement shall commence on 12th September 2025 and shall continue for a period of 12 months, unless terminated earlier.
+
+3. Payment
+
+Party A shall pay Party B a monthly fee of INR 50,000 (Rupees Fifty Thousand Only) within 10 days of receipt of an invoice.
+
+4. Confidentiality
+
+Both parties agree to maintain confidentiality of all proprietary information exchanged under this Agreement.
+
+5. Termination
+
+Either party may terminate this Agreement by providing 30 days’ written notice to the other party.
+
+Signed:
+Party A Representative (Authorized Signatory)
+Party B Representative (Authorized Signatory)
